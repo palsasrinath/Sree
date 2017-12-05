@@ -1,0 +1,29 @@
+java programs
+
+1) palindrome
+2)armstrong number
+3)fibonacci series
+4)swapping using third variable and without using third variable
+5)factorial
+6)prime number
+
+  
+
+
+int a=10;
+int b=20;
+
+a=a+b;
+b=a-b;
+a=a-b;
+
+
+c=a;
+a=b;
+b=c;
+
+
+
+website for programs: https://www.javatpoint.com/java-programs
+
+

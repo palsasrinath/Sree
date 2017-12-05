@@ -1,0 +1,50 @@
+
+
+1) SpringBoot basic app
+
+https://www.mkyong.com/spring-boot/spring-boot-hello-world-example-jsp/
+
+2) SpringBoot basic app with tymeleaf
+
+https://www.mkyong.com/spring-boot/spring-boot-hello-world-example-thymeleaf/
+
+3) 
+
+https://www.mkyong.com/java/how-to-run-a-task-periodically-in-java/
+
+
+4SpringBoot mail...
+
+
+5)Actual Reqmnt  ----
+
+
+
+
+
+REqmnnt :-    REad my inbox for new mailsfor that run a scheduler for evry 5 minutes and reply back to that mail
+
+Receiver Mail
+
+Subject :- Thanks for shopping
+
+
+Body :-   Thanks for shopping . Please visit again for more offers...
+
+1)SpringBoot with REST Controller
+
+2)SpringBoot with Tymeleaf form submission and display few details..
+
+3)SpringBoot with JPA to store form details
+
+4)SpringBoot with REST call to store form details and get json response and display in the jsp or html....
+
+5)What is Micro Service ?SpringBoot with Microservice example?
+
+6)SpringBoot with JdbcTemplate or JPA for Employee CURD Operations?
+
+7)
+
+
+
+
